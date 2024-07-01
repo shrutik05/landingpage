@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #A6857E ;
+    background-color: #605A58  ;
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #A6857E;
+    background-color: #B1D8DD ;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -53,7 +53,7 @@ h2 {
 }
 
 form {
-    background-color: #A6857E
+    background-color: #B1D8DD;
     display: flex;
     flex-direction: column;
     align-items: center;
