@@ -53,6 +53,7 @@ h2 {
 }
 
 form {
+    background-color: #A6857E
     display: flex;
     flex-direction: column;
     align-items: center;
